@@ -1,3 +1,14 @@
+### Fengchang's Jekyll learning notes
+
+install jekyll:
+```
+ $ gem install jekyll bundler
+ $ jekyll new my-awesome-site
+ $ cd my-awesome-site
+~/my-awesome-site $ bundle exec jekyll serve
+# => Now browse to http://localhost:4000
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fengchangfight/fengchang-jekyll-notes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
